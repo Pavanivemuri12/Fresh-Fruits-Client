@@ -43,21 +43,21 @@ const Contact = () => {
                 <input
                   type="text"
                   placeholder="Name"
-                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm"
+                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm" required
                 />
                 <input
                   type="email"
                   placeholder="Email"
-                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm"
+                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm" required
                 />
                 <input
                   type="tel"
                   placeholder="Phone"
-                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm"
+                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm" required
                 />
                 <textarea
                   placeholder="Message"
-                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm"
+                  className="w-full shadow-sm outline-none bg-[#f5f5f7] border-b-2 border-transparent p-1 focus:shadow-lg focus:border-b-2 focus:border-lime-400 rounded-sm"required
                   rows="4"
                 />
                 <button
