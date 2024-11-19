@@ -27,9 +27,9 @@ const About = () => {
   <br></br>
   <br />
   <h1 class="text-3xl font-semibold font-sans-serif text-black mb-4"  >Welcome to Fresh Fruits an eCommerce website</h1>
-  <p class="text-1xl  text-black">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+  <p class="text-1xl  text-black">Fresh Fruits is an eCommerce platform offering a wide variety of fresh, seasonal, and exotic fruits delivered directly from farms to your doorstep. We prioritize quality, eco-friendly packaging, and affordable pricing to promote healthy eating. Customers can enjoy features like easy navigation, real-time order tracking, and product reviews for a seamless shopping experience. </p>
 <br></br>
-<p class="text-1xl  text-black">But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+<p class="text-1xl  text-black">Our offerings include customizable fruit baskets, combos, and special deals such as free delivery on first orders over ₹500. Experience farm-fresh goodness with convenience and care! 🍎🍇🍍</p>
 <br></br>
 <button data-ripple-light="true" type="button" className="w-[15%] select-none rounded-lg bg-green-500 py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md shadow-purple-500/20 transition-all hover:shadow-lg hover:shadow-purple-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none">
                         Shop Now
